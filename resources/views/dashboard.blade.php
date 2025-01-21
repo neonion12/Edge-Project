@@ -11,6 +11,9 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     {{ __("You're logged in!") }}
                 </div>
+                <div class="p-6 text-gray-900 dark:text-gray-100">
+                <a href="/home2"><h2><u>Goto Home</u></h2></a>
+                </div>
             </div>
         </div>
     </div>
